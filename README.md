@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I really like Spider-Man :D\
 \
 I have successfully finished CS50 and got my certificate :D\
-![Image of the certificate](https://github.com/MinaHanna307/MinaHanna307/blob/main/Assets/CS50x.png)\
+![Image of the certificate](https://github.com/MinaHanna307/MinaHanna307/blob/main/Assets/CS50x.png)
