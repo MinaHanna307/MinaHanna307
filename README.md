@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# MinaHanna307
+## Hi there! 👋
 <!--
 **MinaHanna307/MinaHanna307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 My name is Mina Hanna Shehata, I'm 19 years old
+😄 Pronouns: He/Him.
+📐 I'm an engineering student at Cairo University
+🧑‍💻 I'm studying to become a software engineer!
+💻 I already made my first project which is [Study Hub](https://github.com/MinaHanna307/CS50-Final-Project-StudyHub-)!
+⚡ Fun fact: I really like Spider-Man :D
